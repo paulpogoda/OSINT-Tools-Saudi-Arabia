@@ -1,4 +1,4 @@
-# OSINT-Tools-Saudi Arabia
+# OSINT Tools Saudi Arabia
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1599px-Flag_of_Saudi_Arabia.svg.png?20230323235445" alt="SA_Flag"/>
 A list of OSINT resources and tools that may be useful when conducting investigations related to the Kingdom of Saudi Arabia. Part of the resources and tools have English versions, most are in Arabic only.
 
