@@ -20,6 +20,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [KSA General Authirity for Statistics](https://www.stats.gov.sa/en/)
 - [Umm al-Qura](https://www.uqn.gov.sa) Official newspaper in Arab
 - [Saudi Gazette](https://www.saudigazette.com.sa). Newspaper in English
+- [KSA Newspapers List](https://onlinenewspapers.com/saudi-arabia.shtml)
 
 ### Stock
 - [Saudi Exchange](https://www.saudiexchange.sa)
@@ -68,3 +69,4 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 
 ## Appendix
 - [Middle East OSINT - Resources for OSINT in the Middle East](https://start.me/p/jj8Y9a/middle-east-osint)
+- [HBG Middle East - Middle East research resources](https://start.me/p/ZYaxaJ/hbg-middle-east-resources)
