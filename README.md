@@ -18,6 +18,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 ## Open Data portals
 - [Kingdom of Saudi Arabia’s Open Data Platform](https://open.data.gov.sa/en/home)
 - [KSA General Authirity for Statistics](https://www.stats.gov.sa/en/)
+- [Umm al-Qura](https://www.uqn.gov.sa) Official newspaper in Arab
 - [Saudi Gazette](https://www.saudigazette.com.sa). Newspaper in English
 
 ### Stock
